@@ -6,6 +6,8 @@ This repository contains code used in the paper "Semantic reconstruction of cont
 
 - **[Loading Data Tutorial](LOADING_DATA_TUTORIAL.md)** - Comprehensive guide on how to load fMRI data with corresponding text stimuli
 - **[Quick Reference](QUICK_REFERENCE.md)** - Quick reference for common data loading operations
+- **[Data Flow Diagram](DATA_FLOW.md)** - Visual representation of data processing pipeline
+- **[Examples](examples/)** - Example scripts demonstrating data loading
 
 ## Usage
 
